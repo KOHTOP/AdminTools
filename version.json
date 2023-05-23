@@ -1,4 +1,4 @@
 {
-  "latest": "1.2v",
-  "updateurl": "https://raw.githubusercontent.com/KOHTOP/AdminTools/main/AdminTools.lua"
+  "current_version": "1.1v",
+  "update_url": "https://example.com/script_v2.lua"
 }
